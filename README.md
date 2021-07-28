@@ -41,12 +41,12 @@ async def _(client, message):
 ```
 
 # İletişim
-Şikayet, bağış v.b. için benim ile telegram'dan iletişime geç [@YoungSoftware](https://t.me/YoungSoftware)
+Şikayet, bağış v.b. için benim ile telegram'dan iletişime geç [@Drmehmetaktass](https://t.me/Drmehmetaktass)
 
 
 # Credit
 Thanks for;
 
-[Akın](https://github.com/AkinYoungSoftware)
+
 
 [Dan](https://telegram.dog/haskell) [Pyrogram Library](https://github.com/pyrogram/pyrogram) Kütüphanesi için
