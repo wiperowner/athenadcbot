@@ -28,7 +28,7 @@ K_G = Client(
 
 # Start Buttonu İcin Def Oluşturalım :)
 def button():
-	BUTTON=[[InlineKeyboardButton(text="👨🏻‍💻 Sahibim ",url="t.me/@Drmehmetaktass")]]
+	BUTTON=[[InlineKeyboardButton(text="👨🏻‍💻 Sahibim ",url="t.me/Drmehmetaktass")]]
 	BUTTON+=[[InlineKeyboardButton(text="🌱 Open Source 🌱",url="https://instagram.com/dr.mehmetaktass?utm_medium=copy_link")]]
 	return InlineKeyboardMarkup(BUTTON)
 
